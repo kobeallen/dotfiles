@@ -1,6 +1,6 @@
 # [kobeallen](https://github.com/kobeallen)’s dotfiles
 
-These dotfiles are branched from [Cătălin](https://github.com/alrra).
+These dotfiles are branched from [Cătălin's dotfiles](https://github.com/alrra/dotfiles). Huge thanks to him.
 
 These are the base dotfiles that I start with when I set up a
 new environment. For more specific local needs I use the `.local`
