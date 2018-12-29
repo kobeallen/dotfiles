@@ -1,4 +1,6 @@
-# [Cătălin](https://github.com/alrra)’s dotfiles
+# [kobeallen](https://github.com/kobeallen)’s dotfiles
+
+These dotfiles are branched from [Cătălin's dotfiles](https://github.com/alrra/dotfiles). Huge thanks to him.
 
 These are the base dotfiles that I start with when I set up a
 new environment. For more specific local needs I use the `.local`
@@ -30,8 +32,8 @@ understand [what it does][setup]. Seriously, **DON'T**!)
 
 | OS | Snippet |
 |:---|:---|
-| `macOS` | `bash -c "$(curl -LsS https://raw.github.com/alrra/dotfiles/master/src/os/setup.sh)"` |
-| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/alrra/dotfiles/master/src/os/setup.sh)"` |
+| `macOS` | `bash -c "$(curl -LsS https://raw.github.com/kobeallen/dotfiles/master/src/os/setup.sh)"` |
+| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/kobeallen/dotfiles/master/src/os/setup.sh)"` |
 
 That's it! :sparkles:
 
